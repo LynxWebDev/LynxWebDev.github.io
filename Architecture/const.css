@@ -1,0 +1,18 @@
+body {
+    background-color: #191919;
+    color: white;
+}
+
+.ConstHeader {
+    text-align: center;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.ConstPara {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
