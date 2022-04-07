@@ -21,11 +21,15 @@ nav ul {
 }
 
 .logo {
-    color: #FAED26;
+    color: #fff;
     font-size: 45px;
     letter-spacing: 1px;
     cursor: pointer;
     font-family: 'indie flower';
+}
+
+.logo span {
+    color: #FAED26;
 }
 
 nav ul li {
